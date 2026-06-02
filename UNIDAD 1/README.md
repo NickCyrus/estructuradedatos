@@ -6,17 +6,17 @@
 
 # NOTA : DEBE SER EJECUTADO EN UN IDE QUE PERMITA LA ENTRADA DE DATOS INPUT
 
-# UNIDAD-1-ej-8.8.1.py
+# UNIDAD-1-ej-8.1.py
 # -----------------------------------------------------
 # 8.1 Implementación de una pila para realizar el procesamiento de una calculadora postfija.
 # -----------------------------------------------------
 
-# UNIDAD-1-ej-8.8.2.py
+# UNIDAD-1-ej-8.2.py
 # -----------------------------------------------------
 # 8.2 Creación de una cola de prioridad para gestionar la atención de clientes en una tienda.
 # -----------------------------------------------------
 
-# UNIDAD-1-ej-8.8.3.py
+# UNIDAD-1-ej-8.3.py
 # -----------------------------------------------------
 # 8.3 Desarrollo de una lista enlazada para manejar una agenda de contactos, con funcionalidades de inserción, eliminación y búsqueda.
 # -----------------------------------------------------
