@@ -1,2 +1,0 @@
-# estructuradedatos
-Estructura de datos
