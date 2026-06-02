@@ -6,7 +6,6 @@
 
 # Importa el módulo heapq para implementar una cola de prioridad mediante un heap
 import heapq
-import os
 
 # Clase ColaPrioridad representa una cola de prioridad
 class ColaPrioridad:
